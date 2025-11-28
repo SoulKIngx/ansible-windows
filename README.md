@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/Marykiss84/401dd64b-cbff-40fe-a570-d8b80d289eeb/93ec8e8a-77a0-4321-8b36-a55a47e151a4/_apis/work/boardbadge/0efd339d-9bce-45a4-95a1-b688a302ef76)](https://dev.azure.com/Marykiss84/401dd64b-cbff-40fe-a570-d8b80d289eeb/_boards/board/t/93ec8e8a-77a0-4321-8b36-a55a47e151a4/Microsoft.RequirementCategory)
 # Ansible and Windows
 This repo contains some scripts and other stuff that can be useful when using
 Ansible with Windows hosts.
